@@ -64,29 +64,6 @@ class Riverfount:
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Gerado via GitHub Actions — veja instruções abaixo para ativar -->
-<div align="center">
-
-[![](https://raw.githubusercontent.com/Riverfount/Riverfount/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/Riverfount/Riverfount/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Riverfount/Riverfount/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/Riverfount/Riverfount/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Riverfount/Riverfount/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riverfount&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
