@@ -81,6 +81,16 @@ class Riverfount:
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Riverfount's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riverfount&theme=gruvbox&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🌐 Organizations
 
 <div align="center">
@@ -90,16 +100,6 @@ class Riverfount:
 | 🏢 | [**vmdesenvolvimento**](https://github.com/vmdesenvolvimento) | Developer |
 | 🔌 | [**flask-extensions**](https://github.com/flask-extensions) | Contributor |
 | 🥥 | [**cumbucadev**](https://github.com/cumbucadev) | Contributor |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Riverfount's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riverfount&theme=gruvbox&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
