@@ -1,21 +1,12 @@
 <div align="center">
 
-```
-██████╗ ██╗██╗   ██╗███████╗██████╗ ███████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗
-██╔══██╗██║██║   ██║██╔════╝██╔══██╗██╔════╝██╔═══██╗██║   ██║████╗  ██║╚══██╔══╝
-██████╔╝██║██║   ██║█████╗  ██████╔╝█████╗  ██║   ██║██║   ██║██╔██╗ ██║   ██║
-██╔══██╗██║╚██╗ ██╔╝██╔══╝  ██╔══██╗██╔══╝  ██║   ██║██║   ██║██║╚██╗██║   ██║
-██║  ██║██║ ╚████╔╝ ███████╗██║  ██║██║     ╚██████╔╝╚██████╔╝██║ ╚████║   ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=d79921&height=200&section=header&text=Riverfount&fontSize=80&fontColor=1d2021&fontAlignY=38&desc=Vicente%20Mar%C3%A7al%20%C2%B7%20Python%20Developer%20%C2%B7%20Open%20Source%20Contributor&descAlignY=60&descSize=16&descColor=1d2021)
 
-### `Vicente Marçal` · Python Developer · Open Source Contributor
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D79921&center=true&vCenter=true&width=600&lines=Passionate+Python+Developer+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%94%93;Building+with+FastAPI+%7C+Flask+%7C+Kafka;From+Londrina%2C+BR+%F0%9F%87%A7%F0%9F%87%B7+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D79921&center=true&vCenter=true&width=600&lines=Passionate+Python+Developer+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%94%93;Building+with+FastAPI+%7C+Flask+%7C+Kafka;From+Londrina%2C+BR+%F0%9F%87%A7%F0%9F%87%B7+with+%E2%9D%A4%EF%B8%8F)](https://readme-typing-svg.herokuapp.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riverfount-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riverfount/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@riverfount@bolha.us-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://bolha.us/@riverfount)
-[![GitHub followers](https://img.shields.io/github/followers/Riverfount?label=Followers&style=for-the-badge&color=D79921&logo=github)](https://github.com/Riverfount?tab=followers)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40riverfount%40bolha.us-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://bolha.us/@riverfount)
+[![GitHub followers](https://img.shields.io/github/followers/Riverfount?label=Followers&style=for-the-badge&color=D79921&logo=github&logoColor=ebdbb2)](https://github.com/Riverfount?tab=followers)
 
 </div>
 
@@ -55,7 +46,7 @@ class Riverfount:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **DevOps & Tools**
 
@@ -65,9 +56,9 @@ class Riverfount:
 
 **Protocols & Platforms**
 
-![ActivityPub](https://img.shields.io/badge/ActivityPub-3C5A9A?style=for-the-badge&logo=activitypub&logoColor=white)
+![ActivityPub](https://img.shields.io/badge/ActivityPub-3C5A9A?style=for-the-badge&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Translate_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Translate%20API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -84,7 +75,7 @@ class Riverfount:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riverfount&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riverfount&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -140,9 +131,11 @@ class Riverfount:
 
 <div align="center">
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=d79921&height=100&section=footer)
+
 *"Tireless worker and quick learner obsessed with delivering value with quality software."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Riverfount.Riverfount&color=D79921)
+![Profile views](https://komarev.com/ghpvc/?username=Riverfount&color=d79921&style=for-the-badge&label=Profile+Views)
 
 **Made with ❤️ from Londrina, Brazil 🇧🇷**
 
