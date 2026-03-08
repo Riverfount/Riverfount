@@ -68,8 +68,8 @@ class Riverfount:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Riverfount&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riverfount&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Riverfount&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riverfount&layout=compact&theme=gruvbox&hide_border=true&langs_count=6&cache_seconds=86400" />
 
 </div>
 
@@ -85,11 +85,14 @@ class Riverfount:
 
 <div align="center">
 
-[![mongo-bakery](https://github-readme-stats.vercel.app/api/pin/?username=mongo-bakery&repo=mongo_bakery&theme=gruvbox&hide_border=true)](https://github.com/mongo-bakery/mongo_bakery)
-[![flask-confluent-kafka](https://github-readme-stats.vercel.app/api/pin/?username=Riverfount&repo=flask-confluent-kafka&theme=gruvbox&hide_border=true)](https://github.com/Riverfount/flask-confluent-kafka)
-
-[![translate-bot](https://github-readme-stats.vercel.app/api/pin/?username=Riverfount&repo=translate-bot&theme=gruvbox&hide_border=true)](https://github.com/Riverfount/translate-bot)
-[![gen-cutter-sanborn](https://github-readme-stats.vercel.app/api/pin/?username=Riverfount&repo=gen-cutter-sanborn&theme=gruvbox&hide_border=true)](https://github.com/Riverfount/gen-cutter-sanborn)
+| Projeto | Descrição | Linguagem | Stars |
+|--------|-----------|-----------|-------|
+| [**mongo-bakery**](https://github.com/mongo-bakery/mongo_bakery) | MongoDB fixtures & baking utilities | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/mongo-bakery/mongo_bakery?color=d79921&style=flat) |
+| [**flask-confluent-kafka**](https://github.com/Riverfount/flask-confluent-kafka) | Flask extension for Confluent Kafka Producers & Consumers | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/flask-confluent-kafka?color=d79921&style=flat) |
+| [**translate-bot**](https://github.com/Riverfount/translate-bot) | ActivityPub translation bot built with FastAPI & Google Translate | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/translate-bot?color=d79921&style=flat) |
+| [**gen-cutter-sanborn**](https://github.com/Riverfount/gen-cutter-sanborn) | Open Source Cutter-Sanborn code generator | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/gen-cutter-sanborn?color=d79921&style=flat) |
+| [**vm-exchange**](https://github.com/Riverfount/vm-exchange) | Currency exchange rate API | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/vm-exchange?color=d79921&style=flat) |
+| [**esp32-blink**](https://github.com/Riverfount/esp32-blink) | ESP32 blink project in C | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/esp32-blink?color=d79921&style=flat) |
 
 </div>
 
@@ -99,7 +102,7 @@ class Riverfount:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Riverfount&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Riverfount&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
