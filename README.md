@@ -98,8 +98,8 @@ class Riverfount:
 | | Organization | Role |
 |---|---|---|
 | 🏢 | [**vmdesenvolvimento**](https://github.com/vmdesenvolvimento) | Developer |
-| 🔌 | [**flask-extensions**](https://github.com/flask-extensions) | Contributor |
-| 🥥 | [**cumbucadev**](https://github.com/cumbucadev) | Contributor |
+| 🍃 | [**mongo-bakery**](https://github.com/mongo-bakery) | Contributor |
+| 🫘 | [**beanieODM**](https://github.com/BeanieODM) | Contributor |
 
 </div>
 
