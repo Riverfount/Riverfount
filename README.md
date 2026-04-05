@@ -97,7 +97,6 @@ class Riverfount:
 
 | | Organization | Role |
 |---|---|---|
-| 🏢 | [**vmdesenvolvimento**](https://github.com/vmdesenvolvimento) | Developer |
 | 🍃 | [**mongo-bakery**](https://github.com/mongo-bakery) | Contributor |
 | 🫘 | [**beanieODM**](https://github.com/BeanieODM) | Contributor |
 
