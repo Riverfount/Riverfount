@@ -40,6 +40,7 @@ class Riverfount:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Data & Messaging**
@@ -74,7 +75,7 @@ class Riverfount:
 | [**flask-confluent-kafka**](https://github.com/Riverfount/flask-confluent-kafka) | Flask extension for Confluent Kafka | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/flask-confluent-kafka?color=d79921&style=flat) |
 | [**translate-bot**](https://github.com/Riverfount/translate-bot) | ActivityPub bot com FastAPI & Google Translate | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/translate-bot?color=d79921&style=flat) |
 | [**gen-cutter-sanborn**](https://github.com/Riverfount/gen-cutter-sanborn) | Gerador de código Cutter-Sanborn | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/gen-cutter-sanborn?color=d79921&style=flat) |
-| [**vm-exchange**](https://github.com/Riverfount/vm-exchange) | API de conversão de câmbio | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/vm-exchange?color=d79921&style=flat) |
+| [**fizz-buzz-api**](https://github.com/Riverfount/fizz-buzz-api) | FizzBuzz API made in Golang - a simple exercise | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) | ![stars](https://img.shields.io/github/stars/Riverfount/fizz-buzz-api?color=d79921&style=flat) |
 | [**esp32-blink**](https://github.com/Riverfount/esp32-blink) | ESP32 blink project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/esp32-blink?color=d79921&style=flat) |
 
 </div>
@@ -97,8 +98,10 @@ class Riverfount:
 
 | | Organization | Role |
 |---|---|---|
-| 🍃 | [**mongo-bakery**](https://github.com/mongo-bakery) | Contributor |
+| 💡 | [**illumedesign**](https://github.com/illumedesign) | Mantainer |
+| 🍃 | [**mongo-bakery**](https://github.com/mongo-bakery) | Mantainer |
 | 🫘 | [**beanieODM**](https://github.com/BeanieODM) | Contributor |
+
 
 </div>
 
