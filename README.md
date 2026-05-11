@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riverfount-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riverfount/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40riverfount%40bolha.us-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://bolha.us/@riverfount)
+[![Blog](https://img.shields.io/badge/Blog-riverfount.dev.br-D79921?style=for-the-badge&logo=rss&logoColor=white)](https://www.riverfount.dev.br)
 [![GitHub followers](https://img.shields.io/github/followers/Riverfount?label=Followers&style=for-the-badge&color=D79921&logo=github&logoColor=ebdbb2)](https://github.com/Riverfount?tab=followers)
 
 </div>
@@ -20,6 +21,7 @@ class Riverfount:
     location   = "Londrina, PR 🇧🇷"
     role       = "Python Developer & Open Source Contributor"
     focus      = ["Backend APIs", "Distributed Systems", "OSS"]
+    blog       = "https://www.riverfount.dev.br"
     currently  = "Working from home 🏠"
 
     def passion(self):
