@@ -43,6 +43,7 @@ class Riverfount:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Data & Messaging**
@@ -61,7 +62,7 @@ class Riverfount:
 
 ![ActivityPub](https://img.shields.io/badge/ActivityPub-3C5A9A?style=for-the-badge&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Translate%20API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LibreTranslate](https://img.shields.io/badge/LibreTranslate-32A852?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -75,10 +76,11 @@ class Riverfount:
 |--------|-----------|------|-----|
 | [**mongo-bakery**](https://github.com/mongo-bakery/mongo_bakery) | MongoDB fixtures & baking utilities | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/mongo-bakery/mongo_bakery?color=d79921&style=flat) |
 | [**flask-confluent-kafka**](https://github.com/Riverfount/flask-confluent-kafka) | Flask extension for Confluent Kafka | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/flask-confluent-kafka?color=d79921&style=flat) |
-| [**translate-bot**](https://github.com/Riverfount/translate-bot) | ActivityPub bot com FastAPI & Google Translate | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/translate-bot?color=d79921&style=flat) |
+| [**translate-bot**](https://github.com/Riverfount/translate-bot) | ActivityPub bot que traduz posts do Fediverse, com apkit, FastAPI & LibreTranslate | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/translate-bot?color=d79921&style=flat) |
+| [**xmpp-translate-bot**](https://github.com/Riverfount/xmpp-translate-bot) | Bot de tradução para salas XMPP (MUC) via LibreTranslate, com métricas Prometheus & InfluxDB2 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) | ![stars](https://img.shields.io/github/stars/Riverfount/xmpp-translate-bot?color=d79921&style=flat) |
 | [**gen-cutter-sanborn**](https://github.com/Riverfount/gen-cutter-sanborn) | Gerador de código Cutter-Sanborn | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/gen-cutter-sanborn?color=d79921&style=flat) |
 | [**fizz-buzz-api**](https://github.com/Riverfount/fizz-buzz-api) | FizzBuzz API made in Golang - a simple exercise | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) | ![stars](https://img.shields.io/github/stars/Riverfount/fizz-buzz-api?color=d79921&style=flat) |
-| [**esp32-blink**](https://github.com/Riverfount/esp32-blink) | ESP32 blink project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/esp32-blink?color=d79921&style=flat) |
+| [**todolist**](https://github.com/Riverfount/todolist) | REST API com FastAPI, Clean Architecture, JWT, PostgreSQL & Dishka DI | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![stars](https://img.shields.io/github/stars/Riverfount/todolist?color=d79921&style=flat) |
 
 </div>
 
@@ -102,7 +104,8 @@ class Riverfount:
 |---|---|---|
 | 💡 | [**illumedesign**](https://github.com/illumedesign) | Mantainer |
 | 🍃 | [**mongo-bakery**](https://github.com/mongo-bakery) | Mantainer |
-| 🫘 | [**beanieODM**](https://github.com/BeanieODM) | Contributor |
+| 🫘 | [**BeanieODM**](https://github.com/BeanieODM) | Contributor |
+| 🫙 | [**cumbucadev**](https://github.com/cumbucadev) | Member |
 
 
 </div>
