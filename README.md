@@ -90,7 +90,8 @@ class Riverfount:
 
 <div align="center">
 
-[![Riverfount's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riverfount&theme=gruvbox&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Riverfount's contribution snake animation](https://raw.githubusercontent.com/Riverfount/Riverfount/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Riverfount's contribution snake animation](https://raw.githubusercontent.com/Riverfount/Riverfount/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
